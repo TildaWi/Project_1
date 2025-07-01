@@ -58,7 +58,7 @@
 ### 3-1) 📊 EDA 요약
 
 - 월별 고장신고량 분석: 2024년 9월에 전년 대비 2배 이상 증가
-  [삽입 이미지](images/monthly_fault_rate_line.png)
+  ![삽입 이미지](images/monthly_fault_rate_line.png)
   
 - 자치구별 고장률 상위 지역: 서초, 강남, 금천
   [삽입 이미지](images/august_map_by_district.png)
