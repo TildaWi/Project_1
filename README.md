@@ -61,7 +61,7 @@
   ![삽입 이미지](images/monthly_fault_rate_line.png)
   
 - 자치구별 고장률 상위 지역: 서초, 강남, 금천
-  ![삽입 이미지](images/august_map_by_district.png)
+  ![삽입 이미지](images/map_by_distric.png)
  
 - 고장 부품 상위: 타이어 > 체인 > 브레이크
   ![삽입 이미지](images/fault_parts_line.png)
