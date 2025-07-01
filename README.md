@@ -103,7 +103,7 @@ H2. 기온이 상승할수록 고장률도 증가한다
 - 신고 집중 시간(18~21시)에 정비 인력 배치 강화  
 - 주말 및 출퇴근 시간 집중 대응 시나리오 제시
 
-#### ④ 운영팀용 대시보드 설계 | [👉 대시보드 바로가기](https://public.tableau.com/app/profile/leetaein.wi/viz/_17399404264330/2)
+#### ④ 운영팀용 대시보드 설계([👉 대시보드 바로가기](https://public.tableau.com/app/profile/leetaein.wi/viz/_17399404264330/2))
 - 실시간 고장률, 자치구 등급 현황, 부품별 고장 분포 등 시각화
 
   ![삽입 이미지](images/dashboard_capture.png)
