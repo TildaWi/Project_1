@@ -61,10 +61,10 @@
   ![삽입 이미지](images/monthly_fault_rate_line.png)
   
 - 자치구별 고장률 상위 지역: 서초, 강남, 금천
-  [삽입 이미지](images/august_map_by_district.png)
+  ![삽입 이미지](images/august_map_by_district.png)
  
 - 고장 부품 상위: 타이어 > 체인 > 브레이크
-  [삽입 이미지](images/fault_parts_line.png)
+  ![삽입 이미지](images/fault_parts_line.png)
 
 ---
 
@@ -73,8 +73,7 @@
 - **H1. 8월 고장률이 9월 고장률에 영향을 준다**  
 ↳ 자치구별 8월 고장률과 9월 고장률 간 회귀 분석을 통해 선형 상관성 확인  
 - 8월에 고장률이 높았던 지역일수록 9월 고장률도 통계적으로 유의미하게 높은 경향 확인
-
-  [삽입 이미지](images/fault_aug_sep_regression.png)
+  ![삽입 이미지](images/fault_aug_sep_regression.png)
 
 **H2. 기온이 상승할수록 고장률도 증가한다**  
 ↳ 3개년 8월 평균 기온과 고장 건수 간 피어슨 상관계수 분석  
@@ -90,7 +89,7 @@
 #### ① 자치구별 등급화 및 우선 순찰 전략
 - 고장률에 따라 5등급(레전드~응급실)으로 분류  
 - 고장 다발 지역(서초·강남·금천구 등) 우선 대응
-  [삽입 이미지](images/district_rating_map.png)
+  ![삽입 이미지](images/district_rating_map.png)
 
 #### ② 부품별 사전 점검 강화
 - 고장 상위 부품(타이어·체인·브레이크 등) 우선 정비  
@@ -102,7 +101,7 @@
 
 #### ④ 운영팀용 대시보드 설계
 - 실시간 고장률, 자치구 등급 현황, 부품별 고장 분포 등 시각화
-  [삽입 이미지](images/dashboard_capture.png)
+  ![삽입 이미지](images/dashboard_capture.png)
 
 ---
 
