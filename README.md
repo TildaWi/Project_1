@@ -3,13 +3,8 @@
 ### 분석 카테고리: 비즈니스 데이터 분석
 > **분석 기간** &nbsp;|&nbsp;  2025.02.13 - 2025.02.27 <br/>
 > **분석 주체** &nbsp;|&nbsp;  팀 프로젝트 (팀원: 김영경, 윤희상, 위이태인) <br/>
-> **분석 기법** &nbsp;|&nbsp; 고장 패턴 분석, 통계 기반 가설 검정, 정비 전략 설계, 시각화 대시보드 기획 <br/>
-> **분석 기술** &nbsp;|&nbsp;  
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logoColor=white"/>  
+> **분석 기법** &nbsp;|&nbsp;  고장 패턴 분석, 통계 기반 가설 검정, 정비 전략 설계, 시각화 대시보드 기획 <br/>
+> **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat-square&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat-square&logoColor=white"/>  
 
 ---
 
