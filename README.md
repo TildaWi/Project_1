@@ -17,7 +17,7 @@
  ┣ 📁 data/              원천 데이터 (고장신고, 대여이력, 대여소 정보 등)
  ┣ 📁 notebooks/         분석 코드 (Colab)
  ┣ 📁 images/            시각화 결과 (지도, 그래프 등)
- ┣ 📁 reports/           보고서 및 발표자료 (PDF)
+ ┣ 📁 reports/           요약 보고서 및 발표자료 (PDF)
  ┣ 📄 README.md          프로젝트 설명 문서
  ┗ 📄 requirements.txt   사용한 Python 패키지 목록
 
